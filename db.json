@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Patricio ACTUALIZADO",
+      "empresa": "Google",
+      "email": "pato@gmail.com",
+      "telefono": "8129399912",
+      "notas": "Cliente satisfecho",
+      "id": 1
+    },
+    {
+      "nombre": "qwe",
+      "empresa": "qwe",
+      "email": "we@gmd.com",
+      "telefono": "32412412",
+      "notas": "qwer",
+      "id": 3
+    },
+    {
+      "nombre": "Grillo",
+      "empresa": "valak",
+      "email": "valak@valak.com",
+      "telefono": "434343",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Kevin ACTIALIZADO",
+      "empresa": "Codigo con juan",
+      "email": "correo@correo.com",
+      "telefono": "423423423",
+      "notas": "El cliente solicita un servidor",
+      "id": 6
+    }
+  ]
+}
